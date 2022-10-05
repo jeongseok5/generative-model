@@ -1,0 +1,2 @@
+- GAN: Generative Adversarial Networks (2015)
+  - [Paper Link](https://arxiv.org/abs/1406.2661) / [Paper Review]()
